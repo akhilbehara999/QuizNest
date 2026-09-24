@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-23T00:00:00Z",
+  "packs": [
+    {
+      "id": "science_pack_001",
+      "subject": "science",
+      "ageGroup": "all",
+      "version": 1,
+      "questionCount": 102,
+      "url": "https://raw.githubusercontent.com/quiznest/quiznest-content/main/packs/science.json",
+      "sha256": "7f3a84a7750eaa439a047e16c479ef46fd60b388f313ba8ab31e72ecfe9672f5",
+      "releaseDate": "2026-09-23"
+    },
+    {
+      "id": "math_pack_001",
+      "subject": "math",
+      "ageGroup": "all",
+      "version": 1,
+      "questionCount": 102,
+      "url": "https://raw.githubusercontent.com/quiznest/quiznest-content/main/packs/math.json",
+      "sha256": "141263b41d93a880c2974b2586d748351db378dfbed6c181e4c28633e316669c",
+      "releaseDate": "2026-09-23"
+    },
+    {
+      "id": "english_pack_001",
+      "subject": "english",
+      "ageGroup": "all",
+      "version": 1,
+      "questionCount": 102,
+      "url": "https://raw.githubusercontent.com/quiznest/quiznest-content/main/packs/english.json",
+      "sha256": "b853848a665f323ee96c4a4455cb674fd1b6a93b17de4e30895fb5eede6e51ac",
+      "releaseDate": "2026-09-23"
+    },
+    {
+      "id": "general_knowledge_pack_001",
+      "subject": "general_knowledge",
+      "ageGroup": "all",
+      "version": 1,
+      "questionCount": 102,
+      "url": "https://raw.githubusercontent.com/quiznest/quiznest-content/main/packs/general_knowledge.json",
+      "sha256": "79b716dd40b68700f89783489a4bf2bf7524a82f65acacf79c83610086b2572e",
+      "releaseDate": "2026-09-23"
+    },
+    {
+      "id": "history_pack_001",
+      "subject": "history",
+      "ageGroup": "all",
+      "version": 1,
+      "questionCount": 102,
+      "url": "https://raw.githubusercontent.com/quiznest/quiznest-content/main/packs/history.json",
+      "sha256": "1ddffdaeac11ddd7f9ca15f4fb89ad92594afdd0db6236292a48138f751e56d4",
+      "releaseDate": "2026-09-23"
+    },
+    {
+      "id": "geography_pack_001",
+      "subject": "geography",
+      "ageGroup": "all",
+      "version": 1,
+      "questionCount": 102,
+      "url": "https://raw.githubusercontent.com/quiznest/quiznest-content/main/packs/geography.json",
+      "sha256": "e2acbc474917fa537e89b6596a6649b5baeb99daee0431e128675ca2fd422650",
+      "releaseDate": "2026-09-23"
+    },
+    {
+      "id": "computers_pack_001",
+      "subject": "computers",
+      "ageGroup": "all",
+      "version": 1,
+      "questionCount": 102,
+      "url": "https://raw.githubusercontent.com/quiznest/quiznest-content/main/packs/computers.json",
+      "sha256": "7265a002ff563515356a109ef419bcae8aebbb826500e73b17dd487b4e4843bd",
+      "releaseDate": "2026-09-23"
+    },
+    {
+      "id": "animals_pack_001",
+      "subject": "animals",
+      "ageGroup": "all",
+      "version": 1,
+      "questionCount": 102,
+      "url": "https://raw.githubusercontent.com/quiznest/quiznest-content/main/packs/animals.json",
+      "sha256": "8c649dcf36e85b07f7a16ea154bb8890e29367b17c18c6a425d81b53b539f9bf",
+      "releaseDate": "2026-09-23"
+    },
+    {
+      "id": "telugu_pack_001",
+      "subject": "telugu",
+      "ageGroup": "all",
+      "version": 1,
+      "questionCount": 102,
+      "url": "https://raw.githubusercontent.com/quiznest/quiznest-content/main/packs/telugu.json",
+      "sha256": "a99a647fc5b217f333fb45a3361ec2d1943d96abfa3d8c5d79fcc89a1f00718d",
+      "releaseDate": "2026-09-23"
+    },
+    {
+      "id": "hindi_pack_001",
+      "subject": "hindi",
+      "ageGroup": "all",
+      "version": 1,
+      "questionCount": 102,
+      "url": "https://raw.githubusercontent.com/quiznest/quiznest-content/main/packs/hindi.json",
+      "sha256": "ebbd9dad00978a404e57b1bf899f39bd9088420f46cf569ea266a5bbaa8ab90c",
+      "releaseDate": "2026-09-23"
+    }
+  ]
+}
